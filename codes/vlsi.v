@@ -123,4 +123,4 @@ slave s1(.pclk(pclk),
          .prdata(prdata)
          );
 
-endmodule		
+endmodule 
